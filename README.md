@@ -18,6 +18,6 @@ Observações:
    
 3.5 -https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7516834356471034/3458888803825890/4609882266953477/latest.html
     
-3) Para cada questão existe um arquivo no git com a descrição da questão e extensão do notebook jupyter.
+3) Para cada questão existe um arquivo no git com a descrição da questão e extensão .py.
 
 4) Em algumas questões solucionei o problema de duas formas, uma com SQL(Pior Performance) e outra com os recursos nativos do Spark (Melhor Performance).
