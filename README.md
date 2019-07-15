@@ -1,6 +1,7 @@
 # Semantix
 Questões do desafio Semantix
 
+
 Observações:
 1) As respostas dissertativas do arquivo "Desafio Engenheiro de Dados.pdf" estão no arquivo "Respostas Spark.docx".
 
